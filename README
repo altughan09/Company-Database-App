@@ -1,0 +1,9 @@
+Master Data Console Application - Java SE 8 (JDK 1.8) - Eclipse IDE
+Nov 2017 – Nov 2017
+
+Project description•	Take from user the following data : company name, country and VAT number.
+•	Determine the account type (vendor or customer)
+•	Assign a String account number beginning with “4” for vendors and “6” for customers. Account number length consists of 5 numbers in total and increases in order for each creation.
+•	Define payment terms depending on the account type (Interface to be used)
+•	Have get methods to display the company name, adress, VAT number, account type, account number, and payment terms.
+•	Have get output of all the generated information to a text file in the end.
